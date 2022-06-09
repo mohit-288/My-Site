@@ -1,12 +1,12 @@
 a{
-  color: burlywood;
+  color: #11999e;
   font-family: "Sacramento", cursive;
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-decoration: none;
-  padding: 30px;
+  padding: 2rem;
 }
 a:hover{
-  color: yellow;
+  color: #11dde4;
 }
 body {
   margin: 0;
@@ -14,15 +14,15 @@ body {
   font-family: "Merriweather", serif;
 }
 h1 {
-  color: burlywood;
+  color: #01937C;
   margin: 50px auto 0 auto;
   font-size: 5.625rem;
   font-family: "Sacramento", cursive;
   font-weight: bolder;
 }
 h2 {
-  color: burlywood;
-  font-size: 2.5rem;
+  color: #11999e;
+  font-size: 2rem;
   font-family: "Montserrat Alternates", sans-serif;
   font-weight: solid;
 }
@@ -42,11 +42,11 @@ p{
 }
 .bottom-cloud {
   position: relative;
-  bottom: 300px;
+  bottom: 20rem;
   right: 15%;
 }
 .bottom-container {
-  background-color: cadetblue;
+  background-color: #CBF1F5;
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -89,14 +89,14 @@ p{
 }
 .contact-message{
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 2.2rem auto 3.75rem;
 }
 
 
 .coding-img {
   width: 25%;
   float: left;
-  padding-right: 20px;
+  padding-right: 1.1rem;
 }
 
 .intro{
@@ -104,33 +104,34 @@ p{
   margin: auto;
 }
 .middle-container {
-  background-color: #d7eaea;
-  padding: 100px 0;
+  background-color: #E4F9F5;
+  padding: 6.25rem 0;
 }
 .mountain {
-  width: 35%;
+  width: 60%;
+  margin-left: -10rem;
 }
 .motorbike-img {
   width: 25%;
   float: right;
-  padding-left: 20px;
+  padding-left: 1.1rem;
 }
 .profile-img {
   width: 15%;
 }
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 6.25rem auto 6.25rem auto;
   text-align: left;
 }
 
 .top-cloud {
   position: absolute;
-  top: 40px;
-  right: 300px;
+  top: 2.2rem;
+  right: 20rem;
 }
 .top-container {
   position: relative;
-  padding-top: 100px;
-  background-color: cadetblue;
+  padding-top: 6.25rem;
+  background-color: #CBF1F5;
 }
